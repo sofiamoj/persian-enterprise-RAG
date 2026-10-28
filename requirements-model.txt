@@ -1,0 +1,4 @@
+# Real embedder (intfloat/multilingual-e5-small). Not needed to run the tests.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers>=3.0

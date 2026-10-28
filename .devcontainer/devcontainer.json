@@ -1,0 +1,12 @@
+{
+  "name": "RAG demo",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": { "label": "RAG demo", "onAutoForward": "openBrowser" }
+  },
+  "hostRequirements": { "cpus": 4, "memory": "8gb" }
+}
