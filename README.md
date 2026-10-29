@@ -47,3 +47,5 @@ No auth, multi-tenancy, reranking, hybrid search or index tuning. Search is an e
 ## GitHub Codespaces
 
 Open the repo in a Codespace (Docker-in-Docker is configured), run `docker compose up --build`, and open the forwarded port 8000.
+
+Screenshots and the SoAI Hub name are © Sofia AI, all rights reserved. The MIT license applies to the demo code only.
