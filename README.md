@@ -2,6 +2,18 @@
 
 A small educational RAG app: Django 5, PostgreSQL + pgvector, local `intfloat/multilingual-e5-small` embeddings.
 
+## Demo screenshots
+
+![Demo home page with upload form and indexed documents](assets/demo-4.png)
+![Demo answer with source citations, example 1](assets/demo-1.png)
+![Demo answer with source citations, example 2](assets/demo-2.png)
+![Demo answer with source citations, example 3](assets/demo-3.png)
+
+## Product screenshots (SoAI Hub, private)
+
+![SoAI Hub chat answering a Persian question](assets/product-hub.png)
+![SoAI Hub My Files page for uploading documents](assets/product-files.png)
+
 ## Run
 
 ```bash
